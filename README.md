@@ -1,4 +1,4 @@
-#🐍 Python Development Certification
+## 🐍 Python Development Certification
 📖 My Experience
 
 Completing my Python Development Certification has been a really rewarding journey. It helped me move beyond just learning syntax and dive into actually thinking like a developer.
